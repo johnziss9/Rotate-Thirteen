@@ -1,0 +1,10 @@
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\bin\Debug\netcoreapp2.0\RotateCharacters.deps.json
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\bin\Debug\netcoreapp2.0\RotateCharacters.runtimeconfig.json
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\bin\Debug\netcoreapp2.0\RotateCharacters.runtimeconfig.dev.json
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\bin\Debug\netcoreapp2.0\RotateCharacters.dll
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\bin\Debug\netcoreapp2.0\RotateCharacters.pdb
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\obj\Debug\netcoreapp2.0\RotateCharacters.csproj.CoreCompileInputs.cache
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\obj\Debug\netcoreapp2.0\RotateCharacters.AssemblyInfoInputs.cache
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\obj\Debug\netcoreapp2.0\RotateCharacters.AssemblyInfo.cs
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\obj\Debug\netcoreapp2.0\RotateCharacters.dll
+c:\users\jzissimou\Source\Repos\RotateCharacters\RotateCharacters\obj\Debug\netcoreapp2.0\RotateCharacters.pdb
